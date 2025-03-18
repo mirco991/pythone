@@ -1,2 +1,3 @@
 nome= "Mirco"
-print("Mi chiamo", nome)
+città= "Pesaro"
+print("Mi chiamo", nome, "e vivo a", città)
