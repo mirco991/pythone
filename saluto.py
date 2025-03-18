@@ -1,2 +1,2 @@
 nome= "Mirco"
-print("Ciao mi chiamo", nome)
+print("Mi chiamo", nome)
